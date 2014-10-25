@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Sonicsoft",
+    "longName": "Pokemon Watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Pokemon GB.ttf",
+                "name": "POKEFONT_12",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Pokemon GB.ttf",
+                "name": "POKEFONT_24",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Pokemon Watch",
+    "uuid": "581fe6fb-a475-45e9-9940-1062ab95ead9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
